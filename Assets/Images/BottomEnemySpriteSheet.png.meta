@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 96adcc507b29845e5bad458de7600765
+timeCreated: 1460852255
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BottomEnemySpriteSheet_0
+    21300002: BottomEnemySpriteSheet_1
+    21300004: BottomEnemySpriteSheet_2
+    21300006: BottomEnemySpriteSheet_3
+    21300008: BottomEnemySpriteSheet_4
+    21300010: BottomEnemySpriteSheet_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 175
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BottomEnemySpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 44
+        width: 304
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.9875, y: 115.94375}
+        - {x: -77.9875, y: 113.94375}
+        - {x: -80.9875, y: 82.94375}
+        - {x: -80.9875, y: -115.05625}
+        - {x: 12.012497, y: -115.05625}
+        - {x: 82.0125, y: -21.056252}
+        - {x: 82.0125, y: 83.94375}
+        - {x: 21.012497, y: 115.94375}
+    - name: BottomEnemySpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 44
+        width: 309
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76.676544, y: 23.943748}
+        - {x: 67.676544, y: 24.943748}
+        - {x: 72.676544, y: 25.943748}
+        - {x: 82.676544, y: 32.94375}
+        - {x: 82.676544, y: 80.94375}
+        - {x: 56.676544, y: 115.94375}
+        - {x: -82.323456, y: 115.94375}
+        - {x: -82.323456, y: -115.05625}
+        - {x: -1.3234558, y: -115.05625}
+        - {x: 33.676544, y: -87.05625}
+        - {x: 82.676544, y: -3.0562515}
+        - {x: 82.676544, y: 26.943748}
+    - name: BottomEnemySpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 44
+        width: 304
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.98755, y: 115.94375}
+        - {x: -76.98755, y: 113.94375}
+        - {x: -80.98755, y: 30.943748}
+        - {x: -80.98755, y: -115.05625}
+        - {x: 13.012451, y: -115.05625}
+        - {x: 82.01245, y: -53.05625}
+        - {x: 82.01245, y: 82.94375}
+        - {x: 67.01245, y: 115.94375}
+    - name: BottomEnemySpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 44
+        width: 308
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.67651, y: 24.943748}
+        - {x: 73.67651, y: 25.943748}
+        - {x: 82.67651, y: 32.94375}
+        - {x: 82.67651, y: 61.94375}
+        - {x: 38.676514, y: 115.94375}
+        - {x: -82.32349, y: 115.94375}
+        - {x: -82.32349, y: -115.05625}
+        - {x: 8.676514, y: -115.05625}
+        - {x: 82.67651, y: -3.0562515}
+        - {x: 82.67651, y: 18.943748}
+        - {x: 77.67651, y: 23.943748}
+    - name: BottomEnemySpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 44
+        width: 302
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.45471, y: 115.94375}
+        - {x: -80.45471, y: 97.94375}
+        - {x: -80.45471, y: -115.05625}
+        - {x: 13.545288, y: -115.05625}
+        - {x: 80.54529, y: -52.05625}
+        - {x: 80.54529, y: 76.94375}
+        - {x: 65.54529, y: 115.94375}
+    - name: BottomEnemySpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 3374
+        y: 44
+        width: 308
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.20935, y: 60.94375}
+        - {x: 29.20935, y: 115.94375}
+        - {x: -66.79065, y: 115.94375}
+        - {x: -74.79065, y: 110.94375}
+        - {x: -80.79065, y: 80.94375}
+        - {x: -80.79065, y: -114.05625}
+        - {x: -78.79065, y: -115.05625}
+        - {x: 7.2093506, y: -115.05625}
+        - {x: 28.20935, y: -84.05625}
+        - {x: 83.20935, y: -3.0562515}
+        - {x: 83.20935, y: 54.94375}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

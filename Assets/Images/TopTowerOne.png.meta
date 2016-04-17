@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: e1527ef54986b4149bf3ddc412949c8b
+timeCreated: 1460915613
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TopTowerOne_0
+    21300002: TopTowerOne_1
+    21300004: TopTowerOne_2
+    21300006: TopTowerOne_3
+    21300008: TopTowerOne_4
+    21300010: TopTowerOne_5
+    21300012: TopTowerOne_6
+    21300014: TopTowerOne_7
+    21300016: TopTowerOne_8
+    21300018: TopTowerOne_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 450
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TopTowerOne_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 52
+        width: 331
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.06, y: 87.14}
+        - {x: -53.06, y: -49.86}
+        - {x: -42.06, y: -85.86}
+        - {x: 53.94, y: -85.86}
+        - {x: 53.94, y: 24.14}
+        - {x: 21.939999, y: 87.14}
+    - name: TopTowerOne_1
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 52
+        width: 328
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.440002, y: -23.86}
+        - {x: -41.440002, y: -54.86}
+        - {x: -20.440002, y: -85.86}
+        - {x: 53.559998, y: -85.86}
+        - {x: 53.559998, y: 14.139999}
+        - {x: 43.559998, y: 87.14}
+        - {x: -23.440002, y: 87.14}
+        - {x: -52.440002, y: 67.14}
+    - name: TopTowerOne_2
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 52
+        width: 329
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.359985, y: 87.14}
+        - {x: -16.640015, y: 87.14}
+        - {x: -26.640015, y: 84.14}
+        - {x: -40.640015, y: 70.14}
+        - {x: -52.640015, y: 44.14}
+        - {x: -52.640015, y: -37.86}
+        - {x: -25.640015, y: -85.86}
+        - {x: 53.359985, y: -85.86}
+        - {x: 53.359985, y: -30.86}
+        - {x: 15.359985, y: 83.14}
+    - name: TopTowerOne_3
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 52
+        width: 328
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.52002, y: 87.14}
+        - {x: -34.52002, y: 75.14}
+        - {x: -52.52002, y: 61.14}
+        - {x: -52.52002, y: -50.86}
+        - {x: -43.52002, y: -85.86}
+        - {x: 53.47998, y: -85.86}
+        - {x: 53.47998, y: -25.86}
+        - {x: 13.47998, y: 87.14}
+    - name: TopTowerOne_4
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 52
+        width: 331
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.860046, y: 87.14}
+        - {x: -52.860046, y: -85.86}
+        - {x: 54.139954, y: -85.86}
+        - {x: 54.139954, y: 24.14}
+        - {x: 19.139954, y: 87.14}
+    - name: TopTowerOne_5
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 52
+        width: 331
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.06006, y: 87.14}
+        - {x: -53.06006, y: -49.86}
+        - {x: -42.06006, y: -85.86}
+        - {x: 53.93994, y: -85.86}
+        - {x: 53.93994, y: 24.14}
+        - {x: 21.939941, y: 87.14}
+    - name: TopTowerOne_6
+      rect:
+        serializedVersion: 2
+        x: 3883
+        y: 52
+        width: 328
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.440063, y: -23.86}
+        - {x: -41.440063, y: -54.86}
+        - {x: -20.440063, y: -85.86}
+        - {x: 53.559937, y: -85.86}
+        - {x: 53.559937, y: 14.139999}
+        - {x: 43.559937, y: 87.14}
+        - {x: -23.440063, y: 87.14}
+        - {x: -52.440063, y: 67.14}
+    - name: TopTowerOne_7
+      rect:
+        serializedVersion: 2
+        x: 4523
+        y: 52
+        width: 329
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.359985, y: 87.14}
+        - {x: -16.640015, y: 87.14}
+        - {x: -26.640015, y: 84.14}
+        - {x: -40.640015, y: 70.14}
+        - {x: -52.640015, y: 44.14}
+        - {x: -52.640015, y: -37.86}
+        - {x: -25.640015, y: -85.86}
+        - {x: 53.359985, y: -85.86}
+        - {x: 53.359985, y: -30.86}
+        - {x: 15.359985, y: 83.14}
+    - name: TopTowerOne_8
+      rect:
+        serializedVersion: 2
+        x: 5164
+        y: 52
+        width: 328
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.52002, y: 87.14}
+        - {x: -34.52002, y: 75.14}
+        - {x: -52.52002, y: 61.14}
+        - {x: -52.52002, y: -50.86}
+        - {x: -43.52002, y: -85.86}
+        - {x: 53.47998, y: -85.86}
+        - {x: 53.47998, y: -25.86}
+        - {x: 13.47998, y: 87.14}
+    - name: TopTowerOne_9
+      rect:
+        serializedVersion: 2
+        x: 5802
+        y: 52
+        width: 331
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.859985, y: 87.14}
+        - {x: -52.859985, y: -85.86}
+        - {x: 54.140015, y: -85.86}
+        - {x: 54.140015, y: 24.14}
+        - {x: 19.140015, y: 87.14}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

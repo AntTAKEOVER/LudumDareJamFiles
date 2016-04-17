@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: f8b4ea678933f43549e21aa3db833584
+timeCreated: 1460806483
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TopPlayerSpriteSheet_0
+    21300002: TopPlayerSpriteSheet_1
+    21300004: TopPlayerSpriteSheet_2
+    21300006: TopPlayerSpriteSheet_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TopPlayerSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 204
+        width: 98
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.606247, y: -10.306252}
+        - {x: 26.606247, y: 50.69375}
+        - {x: 24.606247, y: 57.69375}
+        - {x: -8.393753, y: 57.69375}
+        - {x: -26.393753, y: 51.69375}
+        - {x: -26.393753, y: -35.30625}
+        - {x: -15.393753, y: -56.30625}
+        - {x: 13.606247, y: -56.30625}
+        - {x: 17.606247, y: -55.30625}
+        - {x: 19.606247, y: -44.30625}
+    - name: TopPlayerSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 204
+        width: 99
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.3937683, y: 57.69375}
+        - {x: -26.393768, y: 48.69375}
+        - {x: -26.393768, y: -40.30625}
+        - {x: -14.393768, y: -56.30625}
+        - {x: 22.606232, y: -56.30625}
+        - {x: 26.606232, y: -38.30625}
+        - {x: 26.606232, y: 57.69375}
+    - name: TopPlayerSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 204
+        width: 118
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.360962, y: 59.19375}
+        - {x: -31.360962, y: 47.19375}
+        - {x: -31.360962, y: -9.806252}
+        - {x: -21.360962, y: -57.80625}
+        - {x: 20.639038, y: -57.80625}
+        - {x: 32.639038, y: -46.80625}
+        - {x: 32.639038, y: 59.19375}
+    - name: TopPlayerSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 204
+        width: 119
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.893799, y: 59.19375}
+        - {x: -31.893799, y: 52.19375}
+        - {x: -31.893799, y: -42.80625}
+        - {x: -21.893799, y: -57.80625}
+        - {x: 18.106201, y: -57.80625}
+        - {x: 32.1062, y: 11.193748}
+        - {x: 32.1062, y: 53.19375}
+        - {x: 30.106201, y: 59.19375}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

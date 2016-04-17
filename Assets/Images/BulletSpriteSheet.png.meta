@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 7cf890c4bcb054877ace223fded6a109
+timeCreated: 1460928965
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BulletSpriteSheet_0
+    21300002: BulletSpriteSheet_1
+    21300004: BulletSpriteSheet_2
+    21300006: BulletSpriteSheet_3
+    21300008: BulletSpriteSheet_4
+    21300010: BulletSpriteSheet_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BulletSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 17
+        width: 139
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.5, y: -26.5}
+        - {x: -47.5, y: -30.5}
+        - {x: 33.5, y: -30.5}
+        - {x: 50.5, y: -25.5}
+        - {x: 50.5, y: 15.5}
+        - {x: 48.5, y: 18.5}
+        - {x: -39.5, y: 18.5}
+        - {x: -53.5, y: 0.5}
+      - - {x: -56.5, y: 18.5}
+        - {x: -58.5, y: 16.5}
+        - {x: -58.5, y: 9.5}
+        - {x: -39.5, y: 9.5}
+        - {x: -39.5, y: 18.5}
+      - - {x: 33.5, y: 28.5}
+        - {x: -1.5, y: 28.5}
+        - {x: -8.5, y: 24.5}
+        - {x: -8.5, y: 14.5}
+        - {x: 12.5, y: 14.5}
+        - {x: 35.5, y: 19.5}
+        - {x: 35.5, y: 26.5}
+    - name: BulletSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 19
+        width: 132
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -17}
+        - {x: -52, y: -17}
+        - {x: -53, y: -19}
+        - {x: -53, y: -27}
+        - {x: -49, y: -31}
+        - {x: -24, y: -31}
+        - {x: -24, y: -23}
+        - {x: -25, y: -20}
+      - - {x: -31, y: 18}
+        - {x: -58, y: 10}
+        - {x: -58, y: -11}
+        - {x: -42, y: -18}
+        - {x: -1, y: -26}
+        - {x: 44, y: -26}
+        - {x: 46, y: -20}
+        - {x: 46, y: 18}
+      - - {x: -43, y: 28}
+        - {x: -48, y: 20}
+        - {x: -48, y: 4}
+        - {x: -31, y: 4}
+        - {x: -14, y: 16}
+        - {x: -14, y: 28}
+      - - {x: 17, y: 25}
+        - {x: 41, y: 9}
+        - {x: 51, y: 9}
+        - {x: 51, y: 29}
+        - {x: 50, y: 33}
+        - {x: 19, y: 33}
+        - {x: 17, y: 31}
+    - name: BulletSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 27
+        width: 125
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 14.5}
+        - {x: -53.5, y: -0.5}
+        - {x: -53.5, y: -32.5}
+        - {x: -51.5, y: -34.5}
+        - {x: 49.5, y: -34.5}
+        - {x: 50.5, y: -32.5}
+        - {x: 50.5, y: 14.5}
+      - - {x: -58.5, y: 14.5}
+        - {x: -58.5, y: 5.5}
+        - {x: -39.5, y: 5.5}
+        - {x: -39.5, y: 14.5}
+      - - {x: -4.5, y: 24.5}
+        - {x: -8.5, y: 20.5}
+        - {x: -8.5, y: 10.5}
+        - {x: 7.5, y: 10.5}
+        - {x: 35.5, y: 15.5}
+        - {x: 35.5, y: 22.5}
+        - {x: 33.5, y: 24.5}
+    - name: BulletSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 23
+        width: 138
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -19.5}
+        - {x: -49, y: -19.5}
+        - {x: -50, y: -21.5}
+        - {x: -50, y: -29.5}
+        - {x: -46, y: -33.5}
+        - {x: -21, y: -33.5}
+        - {x: -21, y: -25.5}
+        - {x: -22, y: -22.5}
+      - - {x: -14, y: 15.5}
+        - {x: -55, y: -2.5}
+        - {x: -55, y: -20.5}
+        - {x: -11, y: -28.5}
+        - {x: 49, y: -28.5}
+        - {x: 49, y: 14.5}
+        - {x: 41, y: 15.5}
+      - - {x: -35, y: 25.5}
+        - {x: -45, y: 15.5}
+        - {x: -45, y: 1.5}
+        - {x: -31, y: 1.5}
+        - {x: -11, y: 13.5}
+        - {x: -11, y: 25.5}
+      - - {x: 20, y: 22.5}
+        - {x: 44, y: 6.5}
+        - {x: 54, y: 6.5}
+        - {x: 54, y: 26.5}
+        - {x: 53, y: 30.5}
+        - {x: 22, y: 30.5}
+        - {x: 20, y: 28.5}
+    - name: BulletSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 19
+        width: 138
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 16.5}
+        - {x: 9, y: 16.5}
+        - {x: 8, y: 14.5}
+        - {x: -10, y: 16.5}
+        - {x: -47, y: 16.5}
+        - {x: -47, y: -27.5}
+        - {x: -44, y: -32.5}
+        - {x: 56, y: -32.5}
+        - {x: 57, y: -30.5}
+        - {x: 57, y: 4.5}
+        - {x: 55, y: 12.5}
+      - - {x: -52, y: 16.5}
+        - {x: -52, y: 7.5}
+        - {x: -33, y: 7.5}
+        - {x: -33, y: 16.5}
+      - - {x: 0, y: 26.5}
+        - {x: -2, y: 23.5}
+        - {x: -2, y: 12.5}
+        - {x: 33, y: 12.5}
+        - {x: 42, y: 13.5}
+        - {x: 42, y: 26.5}
+    - name: BulletSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 15
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -27}
+        - {x: -53, y: -29}
+        - {x: -25, y: -29}
+        - {x: -25, y: -18}
+        - {x: -42, y: -15}
+        - {x: -54, y: -15}
+      - - {x: -14, y: 20}
+        - {x: -25, y: 18}
+        - {x: -59, y: 0}
+        - {x: -59, y: -17}
+        - {x: -27, y: -24}
+        - {x: 45, y: -24}
+        - {x: 45, y: 13}
+        - {x: 43, y: 20}
+      - - {x: -44, y: 30}
+        - {x: -49, y: 21}
+        - {x: -49, y: 6}
+        - {x: -35, y: 6}
+        - {x: -15, y: 18}
+        - {x: -15, y: 30}
+      - - {x: 16, y: 27}
+        - {x: 40, y: 11}
+        - {x: 50, y: 11}
+        - {x: 50, y: 31}
+        - {x: 49, y: 35}
+        - {x: 18, y: 35}
+        - {x: 16, y: 33}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

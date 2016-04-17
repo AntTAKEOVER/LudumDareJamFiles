@@ -1,0 +1,17 @@
+/Users/AntzZ/Desktop/Game_Dev/Game_Dev Stuff/Unity/LD35/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/AntzZ/Desktop/Game_Dev/Game_Dev Stuff/Unity/LD35/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/AntzZ/Desktop/Game_Dev/Game_Dev Stuff/Unity/LD35/obj/Debug/Assembly-CSharp.dll
+/Users/AntzZ/Desktop/Game_Dev/Game_Dev Stuff/Unity/LD35/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/AntzZ/Desktop/Game_Dev/Game_Dev Stuff/Unity/LD35/Temp/bin/Debug/UnityEngine.dll
+/Users/AntzZ/Desktop/Game_Dev/Game_Dev Stuff/Unity/LD35/Temp/bin/Debug/UnityEditor.dll
+/Users/AntzZ/Desktop/Game_Dev/Game_Dev Stuff/Unity/LD35/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/AntzZ/Desktop/Game_Dev/Game_Dev Stuff/Unity/LD35/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/AntzZ/Desktop/Game_Dev/Game_Dev Stuff/Unity/LD35/Temp/bin/Debug/Mono.Cecil.dll
+/Users/AntzZ/Desktop/Game_Dev/Game_Dev Stuff/Unity/LD35/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/AntzZ/Desktop/Game_Dev/Game_Dev Stuff/Unity/LD35/Temp/bin/Debug/Unity.DataContract.dll
+/Users/AntzZ/Desktop/Game_Dev/Game_Dev Stuff/Unity/LD35/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/AntzZ/Desktop/Game_Dev/Game_Dev Stuff/Unity/LD35/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/AntzZ/Desktop/Game_Dev/Game_Dev Stuff/Unity/LD35/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/AntzZ/Desktop/Game_Dev/Game_Dev Stuff/Unity/LD35/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/AntzZ/Desktop/Game_Dev/Game_Dev Stuff/Unity/LD35/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/AntzZ/Desktop/Game_Dev/Game_Dev Stuff/Unity/LD35/Temp/bin/Debug/Mono.Cecil.Mdb.dll

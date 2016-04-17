@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 2b199880b9ce74b2992b7b08cfb5e9e9
+timeCreated: 1460810490
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BottomPlayerSpriteSheet_0
+    21300002: BottomPlayerSpriteSheet_1
+    21300004: BottomPlayerSpriteSheet_2
+    21300006: BottomPlayerSpriteSheet_3
+    21300008: BottomPlayerSpriteSheet_4
+    21300010: BottomPlayerSpriteSheet_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 225
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BottomPlayerSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 93
+        width: 383
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.723434, y: -131.44844}
+        - {x: 1.7234344, y: -12.448441}
+        - {x: -11.276566, y: -11.448441}
+        - {x: -5.2765656, y: 7.5515594}
+        - {x: 7.7234344, y: -27.44844}
+        - {x: 14.723434, y: -54.44844}
+        - {x: 92.723434, y: -72.44844}
+        - {x: 102.723434, y: -41.44844}
+        - {x: 102.723434, y: 9.551559}
+        - {x: -7.2765656, y: 132.55156}
+        - {x: -70.276566, y: 132.55156}
+        - {x: -102.276566, y: 95.55156}
+        - {x: -102.276566, y: -131.44844}
+        - {x: -69.276566, y: -131.44844}
+        - {x: -64.276566, y: -120.44844}
+        - {x: -29.276566, y: -129.44844}
+        - {x: 5.7234344, y: -131.44844}
+    - name: BottomPlayerSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 93
+        width: 358
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.72342, y: -126.44844}
+        - {x: 20.72342, y: -124.44844}
+        - {x: 20.72342, y: -118.44844}
+        - {x: 95.72342, y: -44.44844}
+        - {x: 95.72342, y: 85.55156}
+        - {x: 15.723419, y: 132.55156}
+        - {x: -94.27658, y: 132.55156}
+        - {x: -95.27658, y: 131.55156}
+        - {x: -95.27658, y: -131.44844}
+        - {x: -44.27658, y: -131.44844}
+        - {x: -43.27658, y: -130.44844}
+        - {x: -41.27658, y: -123.44844}
+        - {x: -9.276581, y: -128.44844}
+    - name: BottomPlayerSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 93
+        width: 383
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.743774, y: -11.448441}
+        - {x: -9.743774, y: -5.4484406}
+        - {x: 3.2562256, y: -13.448441}
+        - {x: 9.256226, y: -27.44844}
+        - {x: 34.256226, y: -60.44844}
+        - {x: 88.256226, y: -65.44844}
+        - {x: 100.256226, y: -46.44844}
+        - {x: 103.256226, y: -29.44844}
+        - {x: 103.256226, y: -0.44844055}
+        - {x: 12.256226, y: 132.55156}
+        - {x: -96.743774, y: 132.55156}
+        - {x: -101.743774, y: 112.55156}
+        - {x: -101.743774, y: -125.44844}
+        - {x: -98.743774, y: -131.44844}
+        - {x: 9.256226, y: -131.44844}
+        - {x: 11.256226, y: -120.44844}
+        - {x: 1.2562256, y: -13.448441}
+    - name: BottomPlayerSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 93
+        width: 359
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.223389, y: -126.44844}
+        - {x: 21.223389, y: -118.44844}
+        - {x: 19.223389, y: -116.44844}
+        - {x: 7.2233887, y: -14.448441}
+        - {x: -3.7766113, y: -11.448441}
+        - {x: 11.223389, y: -5.4484406}
+        - {x: 26.223389, y: -28.44844}
+        - {x: 89.22339, y: -35.44844}
+        - {x: 96.22339, y: -17.44844}
+        - {x: 96.22339, y: 25.55156}
+        - {x: 91.22339, y: 29.55156}
+        - {x: 84.22339, y: 31.55156}
+        - {x: 8.223389, y: 132.55156}
+        - {x: -59.77661, y: 132.55156}
+        - {x: -95.77661, y: 83.55156}
+        - {x: -95.77661, y: -54.44844}
+        - {x: -85.77661, y: -131.44844}
+        - {x: -43.77661, y: -131.44844}
+        - {x: -42.77661, y: -130.44844}
+        - {x: -40.77661, y: -123.44844}
+        - {x: -10.776611, y: -129.44844}
+    - name: BottomPlayerSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 93
+        width: 384
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.2766113, y: 7.5515594}
+        - {x: 20.723389, y: -59.44844}
+        - {x: 93.72339, y: -73.44844}
+        - {x: 100.72339, y: -46.44844}
+        - {x: 102.72339, y: -32.44844}
+        - {x: 102.72339, y: -2.4484406}
+        - {x: -0.27661133, y: 130.55156}
+        - {x: -5.2766113, y: 132.55156}
+        - {x: -73.27661, y: 132.55156}
+        - {x: -102.27661, y: 85.55156}
+        - {x: -102.27661, y: -106.44844}
+        - {x: -100.27661, y: -131.44844}
+        - {x: 22.723389, y: -131.44844}
+        - {x: 0.7233887, y: -14.448441}
+        - {x: -10.276611, y: -11.448441}
+    - name: BottomPlayerSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 3284
+        y: 93
+        width: 358
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.756226, y: -126.44844}
+        - {x: 91.756226, y: -38.44844}
+        - {x: 96.756226, y: -21.44844}
+        - {x: 96.756226, y: 31.55156}
+        - {x: 92.756226, y: 31.55156}
+        - {x: 81.756226, y: 28.55156}
+        - {x: 22.756226, y: 104.55156}
+        - {x: 0.7562256, y: 130.55156}
+        - {x: -4.2437744, y: 132.55156}
+        - {x: -60.243774, y: 132.55156}
+        - {x: -94.243774, y: 83.55156}
+        - {x: -94.243774, y: -46.44844}
+        - {x: -73.243774, y: -131.44844}
+        - {x: -43.243774, y: -131.44844}
+        - {x: -42.243774, y: -130.44844}
+        - {x: -40.243774, y: -123.44844}
+        - {x: -8.243774, y: -128.44844}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

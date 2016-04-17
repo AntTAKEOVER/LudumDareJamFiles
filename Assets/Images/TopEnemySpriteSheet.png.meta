@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: d67d2d4e16ade4da5b7782c169aecd35
+timeCreated: 1460888219
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TopEnemySpriteSheet_0
+    21300002: TopEnemySpriteSheet_1
+    21300004: TopEnemySpriteSheet_2
+    21300006: TopEnemySpriteSheet_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 250
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TopEnemySpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 29
+        width: 402
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.200012, y: -78.8}
+        - {x: 30.200012, y: -67.8}
+        - {x: 86.20001, y: -74.8}
+        - {x: 99.20001, y: -65.8}
+        - {x: 113.20001, y: -22.800003}
+        - {x: 160.20001, y: -19.800003}
+        - {x: 161.20001, y: -18.800003}
+        - {x: 161.20001, y: 23.199997}
+        - {x: 132.20001, y: 20.199997}
+        - {x: 38.200012, y: 8.199997}
+        - {x: 48.200012, y: 30.199997}
+        - {x: 25.200012, y: 72.2}
+        - {x: 20.200012, y: 198.2}
+        - {x: 10.200012, y: 223.2}
+        - {x: -120.79999, y: 223.2}
+        - {x: -125.79999, y: 220.2}
+        - {x: -146.79999, y: 198.2}
+        - {x: -145.79999, y: 70.2}
+        - {x: -160.79999, y: 37.199997}
+        - {x: -160.79999, y: -35.800003}
+        - {x: -128.79999, y: -57.800003}
+        - {x: -121.79999, y: -55.800003}
+        - {x: -121.79999, y: -221.8}
+        - {x: -120.79999, y: -222.8}
+        - {x: 9.200012, y: -222.8}
+        - {x: 0.2000122, y: -181.8}
+        - {x: -12.799988, y: -185.8}
+        - {x: -2.7999878, y: -101.8}
+    - name: TopEnemySpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 29
+        width: 402
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86.20001, y: -74.8}
+        - {x: 99.20001, y: -65.8}
+        - {x: 113.20001, y: -22.800003}
+        - {x: 160.20001, y: -19.800003}
+        - {x: 161.20001, y: -18.800003}
+        - {x: 161.20001, y: 23.199997}
+        - {x: 132.20001, y: 20.199997}
+        - {x: 38.200012, y: 8.199997}
+        - {x: 48.200012, y: 30.199997}
+        - {x: 25.200012, y: 72.2}
+        - {x: 20.200012, y: 198.2}
+        - {x: 10.200012, y: 223.2}
+        - {x: -120.79999, y: 223.2}
+        - {x: -125.79999, y: 220.2}
+        - {x: -146.79999, y: 198.2}
+        - {x: -145.79999, y: 70.2}
+        - {x: -160.79999, y: 37.199997}
+        - {x: -160.79999, y: -35.800003}
+        - {x: -128.79999, y: -57.800003}
+        - {x: -121.79999, y: -129.8}
+        - {x: -123.79999, y: -168.8}
+        - {x: -121.79999, y: -221.8}
+        - {x: -121.79999, y: -222.8}
+        - {x: 9.200012, y: -222.8}
+        - {x: -9.799988, y: -130.8}
+        - {x: 6.200012, y: -77.8}
+    - name: TopEnemySpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 29
+        width: 402
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85.20007, y: -222.8}
+        - {x: 89.20007, y: -222.8}
+        - {x: 77.20007, y: -152.8}
+        - {x: 6.2000732, y: -100.8}
+        - {x: 11.200073, y: -55.800003}
+        - {x: 30.200073, y: -67.8}
+        - {x: 86.20007, y: -74.8}
+        - {x: 99.20007, y: -65.8}
+        - {x: 113.20007, y: -22.800003}
+        - {x: 160.20007, y: -19.800003}
+        - {x: 161.20007, y: -18.800003}
+        - {x: 161.20007, y: 23.199997}
+        - {x: 132.20007, y: 20.199997}
+        - {x: 38.200073, y: 8.199997}
+        - {x: 48.200073, y: 30.199997}
+        - {x: 25.200073, y: 72.2}
+        - {x: 20.200073, y: 198.2}
+        - {x: 10.200073, y: 223.2}
+        - {x: -120.79993, y: 223.2}
+        - {x: -125.79993, y: 220.2}
+        - {x: -146.79993, y: 198.2}
+        - {x: -145.79993, y: 70.2}
+        - {x: -160.79993, y: 37.199997}
+        - {x: -160.79993, y: -39.800003}
+        - {x: -124.79993, y: -60.800003}
+        - {x: -121.79993, y: -222.8}
+        - {x: -38.799927, y: -222.8}
+        - {x: -39.799927, y: -154.8}
+        - {x: 7.2000732, y: -220.8}
+        - {x: 76.20007, y: -219.8}
+    - name: TopEnemySpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 29
+        width: 402
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.200073, y: -78.8}
+        - {x: 30.200073, y: -67.8}
+        - {x: 86.20007, y: -74.8}
+        - {x: 99.20007, y: -65.8}
+        - {x: 113.20007, y: -22.800003}
+        - {x: 160.20007, y: -19.800003}
+        - {x: 161.20007, y: -18.800003}
+        - {x: 161.20007, y: 23.199997}
+        - {x: 132.20007, y: 20.199997}
+        - {x: 38.200073, y: 8.199997}
+        - {x: 48.200073, y: 30.199997}
+        - {x: 25.200073, y: 72.2}
+        - {x: 20.200073, y: 198.2}
+        - {x: 10.200073, y: 223.2}
+        - {x: -120.79993, y: 223.2}
+        - {x: -125.79993, y: 220.2}
+        - {x: -146.79993, y: 198.2}
+        - {x: -145.79993, y: 70.2}
+        - {x: -160.79993, y: 37.199997}
+        - {x: -160.79993, y: -35.800003}
+        - {x: -128.79993, y: -57.800003}
+        - {x: -121.79993, y: -55.800003}
+        - {x: -121.79993, y: -221.8}
+        - {x: -120.79993, y: -222.8}
+        - {x: 9.200073, y: -222.8}
+        - {x: 0.20007324, y: -181.8}
+        - {x: -12.799927, y: -185.8}
+        - {x: -2.7999268, y: -101.8}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
